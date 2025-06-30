@@ -1,5 +1,3 @@
-.env
-
 # Maven
 /target/
 *.log
@@ -16,3 +14,21 @@
 
 # OS files
 Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# VS Code (if you ever use it)
+.vscode/
+
+# Backup files
+*.swp
+*~
+
+# Build tools
+/build/
+/out/
+
+# Local environment
+.env
