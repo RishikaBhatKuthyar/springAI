@@ -1,1 +1,18 @@
 .env
+
+# Maven
+/target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Java class files
+*.class
+
+# OS files
+Thumbs.db
