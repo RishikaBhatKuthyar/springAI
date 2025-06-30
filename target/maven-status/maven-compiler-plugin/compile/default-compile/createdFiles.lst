@@ -1,0 +1,4 @@
+com/rishika/springai_api/SpringaiApiApplication.class
+com/rishika/springai_api/service/AIService.class
+com/rishika/springai_api/dto/bookDetails.class
+com/rishika/springai_api/controller/AIController.class
